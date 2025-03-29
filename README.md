@@ -99,7 +99,7 @@ This project is **open-source** and available under the **MIT License**.
 ## 📞 Connect With Me
 
 🔗 **GitHub:** [maheshwaran1303](https://github.com/maheshwaran1303)  
-🔗 **LinkedIn:** [YourLinkedIn](https://linkedin.com/in/your-profile)  
+🔗 **LinkedIn:** [maheshwaran1303](https://linkedin.com/in/maheshwaran1303)  
 
 ---
 
